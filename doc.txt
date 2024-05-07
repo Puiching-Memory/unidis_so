@@ -1,0 +1,2 @@
+https://github.com/Megvii-BaseDetection/BEVStereo
+https://github.com/open-mmlab/OpenPCDet/tree/master/pcdet/ops/roiaware_pool3d/src
